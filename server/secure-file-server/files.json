@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "filename": "httpswww.pdf",
+      "type": "PDF",
+      "path": "./data/httpswww.pdf",
+      "url": "http://127.0.0.1/images/httpswww.pdf"
+    },
+    {
+      "filename": "key_management_data.csv",
+      "type": "CSV",
+      "path": "./data/key_management_data.csv",
+      "url": "http://127.0.0.1/images/key_management_data.csv"
+    }
+  ]
+}
